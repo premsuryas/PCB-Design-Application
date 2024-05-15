@@ -1,5 +1,6 @@
 # PCB-Design-Application
-# Aim
+# Aim:
+when pcb application was implemented
 
 
 # Software required
@@ -41,22 +42,26 @@ Eagle
 
 
 
-# Circuit Diagram
+# Circuit Diagram:
+!(![g1](https://github.com/premsuryas/PCB-Design-Application/assets/147473858/75cb9638-4065-42d0-8fe8-f40f99f398cd)
+)
 
 
 
-# Output
+
+### Schematic diagram:
+!(![g2](https://github.com/premsuryas/PCB-Design-Application/assets/147473858/27b1ac44-a91f-4c3c-bb8b-bd0f48eb3ec0)
+)
 
 
 
-### Schematic diagram
+### Layout diagram:
+!(![g3](https://github.com/premsuryas/PCB-Design-Application/assets/147473858/efd56d63-44e7-4621-a4bb-1551ad266ca2)
+)
 
 
 
-### Layout diagram
-
-
-
-# Result
+# Result:
+when pcb application was created sucessfully
 
 
