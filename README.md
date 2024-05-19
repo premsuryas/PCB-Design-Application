@@ -43,20 +43,20 @@ Eagle
 
 
 # Circuit Diagram:
-!(![g1](https://github.com/premsuryas/PCB-Design-Application/assets/147473858/75cb9638-4065-42d0-8fe8-f40f99f398cd)
+!(![Screenshot 2024-05-19 110418](https://github.com/premsuryas/PCB-Design-Application/assets/147473858/02af57e9-29fe-4d03-acbd-e9b7fe8f3e3f)
 )
 
 
 
 
 ### Schematic diagram:
-!(![g2](https://github.com/premsuryas/PCB-Design-Application/assets/147473858/27b1ac44-a91f-4c3c-bb8b-bd0f48eb3ec0)
-)
+!![Screenshot 2024-05-19 110434](https://github.com/premsuryas/PCB-Design-Application/assets/147473858/6a53d36e-d957-4ff9-b1a2-5f12a186b355)
+
 
 
 
 ### Layout diagram:
-!(![g3](https://github.com/premsuryas/PCB-Design-Application/assets/147473858/efd56d63-44e7-4621-a4bb-1551ad266ca2)
+!(![Screenshot 2024-05-19 110444](https://github.com/premsuryas/PCB-Design-Application/assets/147473858/a26787f6-f436-4e75-a23f-e46c0f771a3b)
 )
 
 
